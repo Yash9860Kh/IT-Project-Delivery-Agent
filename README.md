@@ -31,14 +31,15 @@ This project is a Streamlit-based AI assistant that helps answer IT project deli
 ## Purpose
 This project supports academic and practical IT project guidance by combining prompt engineering with basic NLP and generative AI response generation.
 
+
 # PROJECT FOLDER STRUCTURE
+
+```text
 AI_Project_Delivery_Agent/
 │
 ├── data/
-│   │
 │   ├── samples/
 │   │   └── test_queries.md
-│   │
 │   └── standards/
 │       └── it_standards.md
 │
@@ -55,3 +56,5 @@ AI_Project_Delivery_Agent/
 ├── app.py
 ├── README.md
 └── requirements.txt
+```
+
